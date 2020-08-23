@@ -1,0 +1,49 @@
+.shift{
+    padding-top: 50px;
+}
+body{
+    background: url(C:\Users\Admin\Documents\programmingprojects\Desert.jpg);
+}
+
+.card{
+    float: left;
+    margin: 1.66%;
+}
+
+a{
+    padding-left: 50px; 
+}
+
+/*.btn {background-image: linear-gradient(to right, #2b5876 0%, #4e4376 51%, #2b5876 100%)}
+.btn:hover { background-position: right center; }
+*//*header{
+   width: 60%;
+   margin: 0 auto;
+   height: 10%;
+}
+*/
+#carouselExampleSlidesOnly{
+    width: 100px;
+    height: 100px;
+}
+
+#carouselExampleIndicators{
+     max-width: 100%;
+     height: auto;
+     shape-image-threshold: 20px
+}
+
+img{
+    width: 80%;
+}
+
+
+.img-text{
+    width: 280px;
+    float: right;
+}
+
+.content1{
+    float: left;
+    padding: 10px;
+}
